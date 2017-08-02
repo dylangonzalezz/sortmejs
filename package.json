@@ -1,0 +1,11 @@
+{
+  "name": "dmg-sortme",
+  "version": "1.0.2",
+  "description": "This package gives you different Sorting-Algorithms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Gonzalez",
+  "license": "ISC"
+}
